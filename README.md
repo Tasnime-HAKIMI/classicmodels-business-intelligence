@@ -31,15 +31,15 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 ## Key Results
 
 ### 1. Employee Performance & Sales
-![Chiffres d'affaires par employes](visualizations/Chiffres d'affaires par employes.png)  
-![Nombre de clients geres par employe](visualizations/Nombre de clients geres par employe.png)  
-![Panier moyen par employe](visualizations/Panier moyen par employe.png)  
+![Chiffres d'affaires par employes](visualizations/Chiffres d'affaires par employes.png)
+![Nombre de clients geres par employe](visualizations/Nombre de clients geres par employe.png)
+![Panier moyen par employe](visualizations/Panier moyen par employe.png)
 
 ### 2. Customer Segmentation & Revenue Distribution
-![Segmentation RFM des clients](visualizations/Segmentation RFM des clients.png)  
-![repartition du chiffre d'affaire par client](visualizations/repartition du chiffre d'affaire par client.png)  
-![Distribution Monetary](visualizations/Distribution Monetary.png)  
-![Distribution du panier moyen](visualizations/Distribution du panier moyen.png)  
+![Segmentation RFM des clients](visualizations/Segmentation RFM des clients.png)
+![repartition du chiffre d'affaire par client](visualizations/repartition du chiffre d'affaire par client.png)
+![Distribution Monetary](visualizations/Distribution Monetary.png)
+![Distribution du panier moyen](visualizations/Distribution du panier moyen.png)
 
 ### 3. Product Performance & Stock Analysis
 ![Top 10 produits les plus vendus](visualizations/top 10 produits les plus vendus.png)  
