@@ -65,7 +65,7 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 
 ---
 
-## ▶ How to Run the Project
+## How to Run the Project
 1. Install MySQL and import the ClassicModels schema (`database/schema/classicmodels_schema.sql`)  
 2. Run exploratory and advanced SQL queries (`database/queries/`)  
 3. Install Python dependencies:
