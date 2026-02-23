@@ -28,40 +28,56 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 - Jupyter Notebooks for analysis documentation  
 - PDF reporting  
 
-## Key Results
+---
 
-### 1. Employee Performance & Sales
+## 1. Employee Performance & Sales
+
 ![Employee Sales](visualizations/employee_sales.png)
 ![Clients per Employee](visualizations/employee_clients.png)
 ![Average Basket per Employee](visualizations/employee_avg_basket.png)
 
-### 2. Customer Segmentation & Revenue Distribution
+---
+
+## 2. Customer Segmentation & Revenue Distribution
+
 ![RFM Segmentation](visualizations/rfm_segmentation.png)
 ![Revenue by Client](visualizations/revenue_by_client.png)
 ![Distribution Monetary](visualizations/distribution_monetary.png)
 ![Distribution Average Basket](visualizations/distribution_avg_basket.png)
 
-### 3. Product Performance & Stock Analysis
-![Top 10 produits les plus vendus](visualizations/top 10 produits les plus vendus.png)  
-![etat des stocks par produit](visualizations/etat des stocks par produit.png)  
-![rentabilite_gammes](visualizations/rentabilite_gammes.png)  
-![vente par produit et par gamme](visualizations/vente par produit et par gamme.png)  
-![Top 10 produits souvent achetes ensemble](visualizations/Top 10 produits souvent achetes ensemble.png)  
+---
 
-### 4. Sales Trends & Seasonal Analysis
-![Tendance mensuelle des ventes](visualizations/Tendance mensuelle des ventes.png)  
-![Tendance trimestrielle des ventes](visualizations/Tendance trimestrielle des ventes.png)  
-![Heatmap saisonniere des ventes](visualizations/Heatmap saisonniere des ventes.png)  
+## 3. Product Performance & Stock Analysis
 
-### 5. Geographical Analysis
-![repartition_geo_clients](visualizations/repartition_geo_clients.png)  
-![nombre de clients par pays](visualizations/nombre de clients par pays.png)  
-![newplot repartition des ventes par pays](visualizations/newplot repartition des ventes par pays.png)  
+![Top 10 produits les plus vendus](visualizations/top 10 produits les plus vendus.png)
+![etat des stocks par produit](visualizations/etat des stocks par produit.png)
+![rentabilite_gammes](visualizations/rentabilite_gammes.png)
+![vente par produit et par gamme](visualizations/vente par produit et par gamme.png)
+![Top 10 produits souvent achetes ensemble](visualizations/Top 10 produits souvent achetes ensemble.png)
 
-### 6. Stock & Order Status Insights
-![etat des stocks par produit](visualizations/etat des stocks par produit.png)  
-![donut_status](visualizations/donut_status.png)  
-![circulaire_global](visualizations/circulaire_global.png)  
+---
+
+## 4. Sales Trends & Seasonal Analysis
+
+![Tendance mensuelle des ventes](visualizations/Tendance mensuelle des ventes.png)
+![Tendance trimestrielle des ventes](visualizations/Tendance trimestrielle des ventes.png)
+![Heatmap saisonniere des ventes](visualizations/Heatmap saisonniere des ventes.png)
+
+---
+
+## 5. Geographical Analysis
+
+![repartition_geo_clients](visualizations/repartition_geo_clients.png)
+![nombre de clients par pays](visualizations/nombre de clients par pays.png)
+![newplot repartition des ventes par pays](visualizations/newplot repartition des ventes par pays.png)
+
+---
+
+## 6. Stock & Order Status Insights
+
+![etat des stocks par produit](visualizations/etat des stocks par produit.png)
+![donut_status](visualizations/donut_status.png)
+![circulaire_global](visualizations/circulaire_global.png)
 
 ---
 
@@ -69,8 +85,9 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 1. Install MySQL and import the ClassicModels schema (`database/schema/classicmodels_schema.sql`)  
 2. Run exploratory and advanced SQL queries (`database/queries/`)  
 3. Install Python dependencies:
-   ```bash
-   pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
 ## Author 
 Tasnime Hakimi  
 Specialized in data analysis, econometrics, and applied statistical modeling
