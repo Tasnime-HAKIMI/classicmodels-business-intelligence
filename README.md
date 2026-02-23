@@ -53,33 +53,20 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 
 ## 3. Product Performance & Stock Analysis
 
-![Top 10 produits les plus vendus](visualizations/top 10 produits les plus vendus.png)
-![etat des stocks par produit](visualizations/etat des stocks par produit.png)
+![Top 10](visualizations/top 10 produits les plus vendus.png)
+![etat des stocks](visualizations/etat des stocks par produit.png)
 ![rentabilite_gammes](visualizations/rentabilite_gammes.png)
 ![vente par produit et par gamme](visualizations/vente par produit et par gamme.png)
 ![Top 10 produits souvent achetes ensemble](visualizations/Top 10 produits souvent achetes ensemble.png)
-
----
-
-## 4. Sales Trends & Seasonal Analysis
-
-![Tendance mensuelle des ventes](visualizations/Tendance mensuelle des ventes.png)
-![Tendance trimestrielle des ventes](visualizations/Tendance trimestrielle des ventes.png)
-![Heatmap saisonniere des ventes](visualizations/Heatmap saisonniere des ventes.png)
-
 ---
 
 ## 5. Geographical Analysis
 
 ![repartition_geo_clients](visualizations/repartition_geo_clients.png)
-![nombre de clients par pays](visualizations/nombre de clients par pays.png)
-![newplot repartition des ventes par pays](visualizations/newplot repartition des ventes par pays.png)
-
 ---
 
 ## 6. Stock & Order Status Insights
 
-![etat des stocks par produit](visualizations/etat des stocks par produit.png)
 ![donut_status](visualizations/donut_status.png)
 ![circulaire_global](visualizations/circulaire_global.png)
 
