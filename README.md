@@ -15,12 +15,16 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 - How do sales trends vary over time (monthly, quarterly, seasonally)?  
 - How can RFM segmentation improve marketing strategies?  
 
+---
+
 ## Data Analysis Workflow
 1. Database installation and schema setup (ClassicModels)  
 2. Exploratory SQL analysis (customers, products, orders, employees)  
 3. Advanced SQL queries: window functions, CTEs, pivots, triggers, stored procedures  
 4. Python analysis and visualization (sales trends, RFM segmentation, correlations, stock levels)  
 5. Reporting and dashboard-ready outputs  
+
+---
 
 ## Technical Stack
 - MySQL (Workbench for schema and queries)  
@@ -82,12 +86,17 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 ---
 
 ## How to Run the Project
+
 1. Install MySQL and import the ClassicModels schema (`database/schema/classicmodels_schema.sql`)  
 2. Run exploratory and advanced SQL queries (`database/queries/`)  
 3. Install Python dependencies:
 
 ```bash
 pip install -r requirements.txt
-## Author 
+```
+
+---
+
+## Author  
 Tasnime Hakimi  
-Specialized in data analysis, econometrics, and applied statistical modeling
+Specialized in Data Analysis, Econometrics, and Applied Statistical Modeling
