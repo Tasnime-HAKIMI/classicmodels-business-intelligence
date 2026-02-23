@@ -53,7 +53,6 @@ ClassicModels is a retail model vehicles company. Understanding customer behavio
 
 ## 3. Product Performance & Stock Analysis
 
-![etat des stocks](visualizations/etat des stocks par produit.png)
 ![rentabilite_gammes](visualizations/rentabilite_gammes.png)
 ![vente par produit et par gamme](visualizations/vente par produit et par gamme.png)
 
